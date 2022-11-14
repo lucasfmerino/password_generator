@@ -38,8 +38,3 @@ if __name__ == '__main__':
     password = Password()
     Valorant_pass = password.gen_pass()
     print(Valorant_pass)
-
-
-
-
-
